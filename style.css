@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('/assets/fonts/Inter-VariableFont_slnt\,wght.ttf') format('truetype');
+  }
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey_700: hsl(0, 0%, 20%);
+    --grey_800: hsl(0, 0%, 12%);
+    --grey_900: hsl(0, 0%, 8%);
+    font-size: 14px;
+    font-family: 'Inter';
+}
