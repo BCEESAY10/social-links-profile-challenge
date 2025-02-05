@@ -69,6 +69,7 @@
     margin: 6px 0;
     text-align: center;
     font-weight: 600;
+    transition: background-color 0.5s, color 0.5s; 
 }
 .container .card .links:hover{
     background: var(--green);
